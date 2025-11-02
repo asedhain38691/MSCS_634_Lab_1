@@ -1,1 +1,4 @@
 # MSCS_634_Lab_1
+
+
+## The purpose of this lab is to provide hands-on experience in the complete data analysis workflow using Python. We were expected to collect or select a dataset, load it into a Pandas DataFrame, and explore its structure and characteristics. This lab emphasized visualizing data through various plots to identify patterns, trends, and distributions, as well as preprocessing techniques such as handling missing values, detecting and managing outliers, reducing dataset size, and scaling or discretizing numeric data. Additionally, we had to perform statistical analysis to compute measures of central tendency, dispersion, and correlation, enabling them to summarize the data effectively and gain insights into relationships among variables. Overall, the lab aimed to develop practical skills in cleaning, analyzing, and interpreting real-world datasets
